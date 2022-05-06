@@ -63,7 +63,8 @@ function closeLightbox(e) {
 }
 
 function onKey(e) {
-    if (e.code === "Escape") {
-        onClickHandlerClose();
-    }
+  if (e.code === "Escape") {
+    onClickHandlerClose(e);
+  }
 }
+
