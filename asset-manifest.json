@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/js-hw-09-gallery/static/css/main.5669269c.css",
-    "main.js": "/js-hw-09-gallery/static/js/main.980b4847.js",
-    "index.html": "/js-hw-09-gallery/index.html",
-    "static/media/icon-close.svg": "/js-hw-09-gallery/static/media/icon-close.83ea9b8a8386e37e25e0.svg",
-    "main.5669269c.css.map": "/js-hw-09-gallery/static/css/main.5669269c.css.map",
-    "main.980b4847.js.map": "/js-hw-09-gallery/static/js/main.980b4847.js.map"
+    "main.css": "/Omelchenkormn/js-hw-09-gallery.git/static/css/main.527cc2d3.css",
+    "main.js": "/Omelchenkormn/js-hw-09-gallery.git/static/js/main.980b4847.js",
+    "index.html": "/Omelchenkormn/js-hw-09-gallery.git/index.html",
+    "static/media/icon-close.svg": "/Omelchenkormn/js-hw-09-gallery.git/static/media/icon-close.83ea9b8a8386e37e25e0.svg",
+    "main.527cc2d3.css.map": "/Omelchenkormn/js-hw-09-gallery.git/static/css/main.527cc2d3.css.map",
+    "main.980b4847.js.map": "/Omelchenkormn/js-hw-09-gallery.git/static/js/main.980b4847.js.map"
   },
   "entrypoints": [
-    "static/css/main.5669269c.css",
+    "static/css/main.527cc2d3.css",
     "static/js/main.980b4847.js"
   ]
 }
